@@ -37,8 +37,8 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="2.2.0" />
-    <PackageReference Include="SciTech.Rpc.Grpc" Version="0.5.2-alpha1" />
-    <PackageReference Include="SciTech.Rpc.Pipelines" Version="0.5.2-alpha1" />
+    <PackageReference Include="SciTech.Rpc.Grpc" Version="0.5.2-alpha2" />
+    <PackageReference Include="SciTech.Rpc.Pipelines" Version="0.5.2-alpha2" />
     <PackageReference Include="System.Threading.Channels" Version="4.5.0" />
   </ItemGroup>
 
